@@ -6,9 +6,9 @@ main {
 }
 
 .icons-social a {
-	color: #1E1E1E;
+	color: white;
 }
 
 .icons-social a svg path{
-	fill: #1E1E1E;
+	fill: white;
 }
